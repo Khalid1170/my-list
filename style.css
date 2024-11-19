@@ -1,0 +1,25 @@
+.list{
+    border: 3px solid black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+   width: 30%;
+   height: 50%;
+   justify-content: center;
+   box-shadow: 0 0 20px 20px;
+
+}
+
+.list:hover{
+    background-color:rgb(111, 135, 155);
+    
+}
+
+.body{
+    background-color:rgb(150, 169, 185);
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
